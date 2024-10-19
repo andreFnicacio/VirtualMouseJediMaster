@@ -1,0 +1,51 @@
+# Ambiente Virtual do Python
+venv/
+virtualhans/
+env/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Arquivos de configuração de ambiente
+.env
+*.env
+
+# Dependências instaladas
+*.egg-info/
+.eggs/
+pip-log.txt
+
+# Compilados
+*.so
+*.pyd
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.iml
+
+# Arquivos gerados automaticamente
+*.spec
+dist/
+build/
+
+# Arquivos do sistema operacional
+*.bak
+*.pid
+*.out
+*.lock
